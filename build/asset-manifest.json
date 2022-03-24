@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-todos/static/css/main.b8a171aa.css",
+    "main.js": "/react-todos/static/js/main.6aeea8fc.js",
+    "index.html": "/react-todos/index.html",
+    "static/media/check-circle-regular.svg": "/react-todos/static/media/check-circle-regular.3f4769c36fa90411620d1579c57a0cc2.svg",
+    "static/media/times-circle-regular.svg": "/react-todos/static/media/times-circle-regular.5ee952f2af66f357fdfd7bebcd0235ef.svg",
+    "main.b8a171aa.css.map": "/react-todos/static/css/main.b8a171aa.css.map",
+    "main.6aeea8fc.js.map": "/react-todos/static/js/main.6aeea8fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a171aa.css",
+    "static/js/main.6aeea8fc.js"
+  ]
+}
