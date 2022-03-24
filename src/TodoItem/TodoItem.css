@@ -1,0 +1,39 @@
+.li {
+    padding: 10px 6px 14px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid rgb(208, 209, 209);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* 
+.icon {
+    width: 20px;
+    font-size: 2.2rem;
+}
+
+.icon_check {
+    color: #2b8502;
+}
+.icon_check--completed {
+    color: #50f504;
+}
+
+.icon_close {
+    color: #d30606;
+    cursor: pointer;
+}
+.icon_close:hover {
+    color: #ff0000;
+} */
+
+.item_text {
+    font-size: 1.8rem;
+    margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.item_text--completed {
+    text-decoration: line-through;
+}

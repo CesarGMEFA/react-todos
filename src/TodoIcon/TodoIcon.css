@@ -1,0 +1,17 @@
+.icon {
+    cursor: pointer;
+    width: 22px;
+}
+.icon_svg {
+    width: 24px;
+    height: 24px;
+    transition: fill .15s;
+}
+
+.icon:hover .icon_svg--check {
+    fill: #50f504;
+}
+
+.icon:hover .icon_svg--delete {
+    fill: #ff0000;
+}

@@ -1,0 +1,23 @@
+.btnAdd {
+    width: 60px;
+    height: 60px;
+    font-size: 5rem;
+    color: #ffffff;
+    cursor: pointer;
+
+    background-color: rgb(82, 251, 91);
+    border-radius: 50%;
+    border: none;
+
+    transform: rotate(0);
+    
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 1;
+}
+
+.btnAdd:hover {
+    transform: rotate(360deg);
+    transition: 1s ease;
+}
